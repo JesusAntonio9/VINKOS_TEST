@@ -1,0 +1,9 @@
+id: Llave primaria.
+id2: Repetición de id.
+v1: Luz medida en la unidad lux.
+v2: Temperatura en grados centígrados.
+v3: Fecha en la que fueron tomadas las mediciones, en timestamp (yyyy-MM-dd HH:mm:ss).
+v4: Cantidad de bióxido de carbono (CO2) en ppm.
+v5: Humedad relativa en porcentaje.
+v6: : cociente de humedad, calculado de la temperatura y la humedad relativa, en kg agua-vapor / kg-aire.
+c1: Variable de clasificación binaria. 0- el cuarto NO está ocupado, 1- el cuarto está ocupado.
